@@ -30,3 +30,37 @@ Quando o cliente finalizar o pedido o sistema deve cadastrar endereço de entreg
 ##### RN06
 Quando o cliente finalizar o pedido deve permitir selecionar tipo de pagamento
 
+### Requisitos funcionais
+
+##### RF1
+O sistema deve buscar produto
+
+##### RF2
+O sistema deve adicionar produto (itens do carrinho)
+
+##### RF3
+O sistema deve visualizar produtos (vitrine e itens do carrinho)
+
+##### RF4
+O sistema deve excluir produto (itens do carrinho)
+
+##### RF5
+O sistema deve alterar quantidade produto (itens do carrinho)
+
+##### RF6
+O sistema deve finalizar pedido (fechar carrinho)
+
+##### RF7
+O sistema deve identificar cliente
+
+##### RF8
+O sistema deve cadastrar cliente
+
+##### RF9
+O sistema deve cadastrar endereco de entrega
+
+##### RF10
+O sistema deve permitir ao cliente selecionar opção de pagamento
+
+##### R11
+O sistema deve confirmar a compra
