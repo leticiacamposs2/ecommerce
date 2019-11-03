@@ -100,5 +100,8 @@ O sistema deve confirmar a compra
 #### Pagamento
 ![](pagamento.png)
 
+#### Relatório
+![](relatoriodevenda.png)
+
 ##### Link do projeto
 https://leticialojavirtual.azurewebsites.net/ecommerce
