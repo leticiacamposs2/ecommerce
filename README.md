@@ -64,3 +64,17 @@ O sistema deve permitir ao cliente selecionar opção de pagamento
 
 ##### R11
 O sistema deve confirmar a compra
+
+### Requisitos não funcionais
+
+##### 1. Confiabilidade
+* O sistema deve garantir que a atualização de dados será feita de forma atômica e imediata.
+
+##### 2. Eficiência
+* O sistema deve responder a qualquer pesquisa, inclusão, alteração e exclusão.
+
+##### 3. Portabilidade
+* O sistema deve ser executado em microcomputadores com acesso a internet com velocidade mínima de 3 Mbps (megabits por segundo).
+
+##### 4. Usabilidade
+* O sistema deve seguir as diretrizes de interface humana do projeto GNOME: http://developer.gnome.org/projects/gup/hig/
