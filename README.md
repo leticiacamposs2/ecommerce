@@ -6,7 +6,7 @@ Nesta etapa os alunos devem entregar os seguintes artefatos:
 * [Requisitos funcionais](#requisitos-funcionais)
 * [Requisitos não funcionais](#requisitos-nao-funcionais)
 * Descritivo dos casos de uso
-* Protótipo de tela de baixa fidelidade (ao menos 5 telas)
+* [Protótipo de tela de baixa fidelidade (ao menos 5 telas)](#prototipo-de-tela-de-baixa-fidelidade)
 
 ## <a name=“diagrama-de-use-cases”><a/>
 ## Diagrama de use cases
@@ -84,6 +84,18 @@ O sistema deve confirmar a compra
 
 ##### 4. Usabilidade
 * O sistema deve seguir as diretrizes de interface humana do projeto GNOME: http://developer.gnome.org/projects/gup/hig/
+
+## <a name=“prototipo-de-tela-de-baixa-fidelidade”><a/>
+## Prototipo de tela de baixa fidelidade
+
+#### Cadastro de cliente
+![](cadastrodecliente.png)
+
+#### Cadastro de produto
+![](cadastrodeproduto.png)
+
+#### Pagamento
+![](pagamento.png)
 
 ##### Link do projeto
 https://leticialojavirtual.azurewebsites.net/ecommerce
