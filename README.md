@@ -94,6 +94,9 @@ O sistema deve confirmar a compra
 #### Cadastro de produto
 ![](cadastrodeproduto.png)
 
+#### Vitrine da loja
+![](vitrinedaloja.png)
+
 #### Pagamento
 ![](pagamento.png)
 
