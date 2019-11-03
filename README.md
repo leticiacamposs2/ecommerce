@@ -9,3 +9,24 @@ Nesta etapa os alunos devem entregar os seguintes artefatos:
 * Protótipo de tela de baixa fidelidade (ao menos 5 telas)
 
 ![](casodeuso.jpg)
+
+### Regras de negócios
+
+##### RN01
+Quando o cliente visualizar os produtos (carrinho) o sistema deve permitir alteração de quantidade de itens.
+
+##### RN02
+Quando o cliente visualizar os produtos (carrinho) o sistema deve permitir exclusão de itens
+
+##### RN03
+Quando o cliente finalizar o pedido o sistema deve identificar o cliente
+
+##### RN04
+Quando o cliente finalizar o pedido e o cliente não for cadastrado o sistema deve permitir cadastrar cliente
+
+##### RN05
+Quando o cliente finalizar o pedido o sistema deve cadastrar endereço de entrega
+
+##### RN06
+Quando o cliente finalizar o pedido deve permitir selecionar tipo de pagamento
+
