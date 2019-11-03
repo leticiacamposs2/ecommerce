@@ -8,6 +8,4 @@ Nesta etapa os alunos devem entregar os seguintes artefatos:
 * Descritivo dos casos de uso
 * Protótipo de tela de baixa fidelidade (ao menos 5 telas)
 
-### Diagrama
-
 ![](casodeuso.jpg)
