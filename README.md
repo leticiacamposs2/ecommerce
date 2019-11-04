@@ -1,16 +1,16 @@
-# https://leticialojavirtual.azurewebsites.net/ecommerce	
+Deploy realizado no azure, disponível em: https://leticialojavirtual.azurewebsites.net/ecommerce	
 
-## Login
+### Login
 ![](login.png)
 
-## Cadastro de cliente
+### Cadastro de cliente
 ![](cadastro-cliente.png)
 
-## Cadastro de produtos
+### Cadastro de produtos
 ![](cadastro-produtos.png)
 
-## Vitrine
+### Vitrine
 ![](vitrine.png)
 
-## Pagamento
+### Pagamento
 ![](pagamento.png)
